@@ -1,6 +1,23 @@
 **Name: 					   Dinesh Ramamoorthy**
 ============
 
+~~~python
+define dinesh() {
+    print "
+	Hello,
+
+	I am a Graduate Student pursuing my Master's in Computer Science at University of South Florida, Tampa, Florida.
+	Thank you for providing me this opportunity and I am really excited to work with you guys. 
+	I have a passion for software development and have been a part of many projects throughout my curriculum where 
+	I got to learn the basics of software development. I have started the first steps and will be completing it in the next few days.
+	I am looking forward  to work with you guys and gain more experience.
+		
+	Cheers
+		";
+}
+~~~
+
+
 > - Host Name:                 LAPTOP-V8SDH5CJ
 > - OS Name:                   Microsoft Windows 10 Home
 > - OS Version:                10.0.14393 N/A Build 14393
@@ -14,7 +31,7 @@
 > - System Model:              Inspiron 5458
 > - System Type:               x64-based PC
 > - Processor(s):              1 Processor(s) Installed.
-                           * [01]: Intel64 Family 6 Model 61 Stepping 4 GenuineIntel ~500 Mhz
+>  * [01]: Intel64 Family 6 Model 61 Stepping 4 GenuineIntel ~500 Mhz
 						   
 						   
 > - BIOS Version:              Dell Inc. A09, 12/30/2015
@@ -33,15 +50,15 @@
 > - Domain:                    WORKGROUP
 > - Logon Server:              \\LAPTOP-V8SDH5CJ
 > - Network Card(s):           3 NIC(s) Installed.
-                           - [01]: Realtek PCIe FE Family Controller
-                                 Connection Name: Ethernet
-                                 Status:          Media disconnected
-                           - [02]: Intel(R) Dual Band Wireless-AC 3160
-                                 Connection Name: Wi-Fi
-                                 DHCP Enabled:    Yes
-                           - [03]: VirtualBox Host-Only Ethernet Adapter
-                                 Connection Name: VirtualBox Host-Only Network #2
-                                 DHCP Enabled:    No
+>   -                        [01]: Realtek PCIe FE Family Controller
+>                                Connection Name: Ethernet
+>                                    Status:          Media disconnected
+>   -                            [02]: Intel(R) Dual Band Wireless-AC 3160
+>                                    Connection Name: Wi-Fi
+>                                    DHCP Enabled:    Yes
+>   -                           [03]: VirtualBox Host-Only Ethernet Adapter
+>                                    Connection Name: VirtualBox Host-Only Network #2
+>                                    DHCP Enabled:    No
 								 
 > - Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
                            Virtualization Enabled In Firmware: Yes
