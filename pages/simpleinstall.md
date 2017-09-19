@@ -1,7 +1,8 @@
-# Project Title : Simple Install
+# Simple Install
 
-## Objective 
-Creating Installation processes for diffrent OS like Linux, MAC and Windows and Working on issues at https://github.com/dogi/ole--vagrant-community/issues
+## Objectives 
+* Create installation processes for different OS such as Linux, macOS, and Windows.
+* Working on issues at https://github.com/dogi/ole--vagrant-community/issues.
 
 ## Documentation
 Documentation helps to  understand overall progress of project.Visit following link to learn more about it. 
@@ -32,8 +33,8 @@ In this project we are working on Batch programming. It is a command line script
 
 ## Why do we need the Script?
 
-* Setting up any new environment requires finding, downloading, and installing diffrent software.
-* To install diffrent software and related components separately is time-consuming process.
+* Setting up any new environment requires finding, downloading, and installing different software.
+* To install different software and related components separately is time-consuming process.
 * It also increases the complexity overall if the software has compatibility issues or dependencies.
 * Hence automating the process of installation by runnning a single script is easiest way to avoid such overhead. 
 * You do not need to install software separately for setting up environment and the script will install all software at once.
@@ -41,7 +42,7 @@ In previous steps we need to install vagrant and virtualbox saperately. This scr
 
 ## About Homebrew
 * Homebrew simplifies the process of downloading, compiling, and installing software using a simple script. 
-* It is a bulk installer and command line utility script which automates the process of installation on the OS X operating system . 
+* It is a bulk installer and command line utility script which automates the process of installation on the OS X operating system. 
 * Homebrew is a package manager which is implemented in ruby language. You can research more about it by visiting http://brew.sh/ link. 
 
 ## Useful links
